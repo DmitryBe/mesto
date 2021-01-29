@@ -15,3 +15,4 @@ https://julwhy.github.io/mesto/
 
 ## Section 2
 Some information will be here
+adding new information
